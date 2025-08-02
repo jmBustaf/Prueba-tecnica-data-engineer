@@ -1,0 +1,49 @@
+# Entornos virtuales
+venv/
+.env/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Archivos de configuración locales
+*.sqlite3
+*.log
+*.pot
+*.mo
+
+# VSCode y otros editores
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Archivos de pruebas y cobertura
+.coverage
+.coverage.*
+.cache/
+.noseids
+.pytest_cache/
+htmlcov/
+
+# Archivos de bases de datos
+*.db
+*.db-journal
+
+# Archivos de exportación temporales
+*.csv
+*.gz
+*.zip
+*.tar
+*.bak
+
+# Otros archivos ignorables
+.DS_Store
+Thumbs.db
