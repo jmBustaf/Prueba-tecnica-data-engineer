@@ -47,3 +47,6 @@ htmlcov/
 # Otros archivos ignorables
 .DS_Store
 Thumbs.db
+
+# Entorno virtual
+venv/
